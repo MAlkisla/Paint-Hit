@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: f7836ef15da9b0c4b857eb4291375464
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Beholder
+  fontNames:
+  - Beholder
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ea8b08f03937010478645035d533e12c, type: 3}
+  - {fileID: 12800000, guid: b9e841b7f38ee36478db1bee904099ae, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
